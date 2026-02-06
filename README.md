@@ -52,4 +52,4 @@ Type your message and press Enter. The bot will respond. To stop, type a goodbye
 
 ## Author
 
-Developed by [mistlp74](https://github.com/mistlp74)
+Developed by [Milis Carter](https://github.com/MilisCarter74)
